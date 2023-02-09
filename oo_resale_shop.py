@@ -1,6 +1,6 @@
 from computer import *
 
-# ResaleShop class adds and removes computer to inventory
+# ResaleShop class adds and removes computer to the store's inventory
 class ResaleShop:
 
     # What attributes will it need?

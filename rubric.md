@@ -7,7 +7,7 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 - **NO**: indicates that the item is not attempted
 - **PART**: indicates that the item is attempted but not fully complete
 
-### Level 1 (3 pts)
+#### Level 1 (3 pts)
 
 **YES** 1 pt: All expected attributes for `Computer` class are present
 

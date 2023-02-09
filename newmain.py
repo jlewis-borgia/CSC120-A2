@@ -21,7 +21,7 @@ def main():
     print("Let's change the price of the computer.")
     my_computer.update_price(1300)
 
-# changes the operating system
+# changes the operating system of the computer
     print("Now let's refurbish the computer's operating system.")
     my_computer.refurbish("macOS Monterey")
 

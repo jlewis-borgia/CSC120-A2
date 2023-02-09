@@ -1,4 +1,4 @@
-#the computer class updates computer price and operating systems
+#the computer class updates computer price and its operating system
 class Computer:
 
 
@@ -27,7 +27,7 @@ class Computer:
         print("The price has been changed to", self.price)
 
 
-    # updates the operating system
+    # updates the operating system of the computer
     def refurbish(self, new_OS):
         self.operating_system = new_OS
         print("The new OS system is", new_OS)
